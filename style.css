@@ -1,0 +1,74 @@
+* {
+    scroll-behavior: smooth;
+}
+
+
+
+#navbar {
+    color: blueviolet;
+    background-color: transparent;
+    justify-content: right;
+}
+
+.grid-layouts {
+    border: 1px solid red;
+}
+
+.display-4 {
+    font-family: 'Passions Conflict', cursive;
+
+}
+
+.lead {
+    /* font-family: 'Alex Brush', cursive; */
+    font-family: 'Cormorant SC', serif;
+
+
+
+}
+
+.jumbotron {
+    background-image: linear-gradient(black, black);
+
+}
+
+.bg {
+
+    padding: 10px;
+    border: 1px solid yellowgreen;
+    background-color: aliceblue;
+    text-decoration: none;
+    color: black;
+
+}
+
+.bgcard {
+    padding: 2cm;
+}
+
+
+.bg3 {
+    padding-top: 20px;
+    color: aliceblue;
+    /* background-color: #05e1bd; */
+    /* border: 1px solid yellowgreen; */
+    /* background-color:whitesmoke; */
+}
+
+.bg4 {
+    padding: 10px;
+    /* border: 1px solid yellowgreen; */
+    background-color: transparent;
+    /* margin-left: 300px; */
+}
+
+.bgproject {
+    padding-top: 40px;
+    font-family: 'Alex Brush', cursive;
+
+}
+
+
+a {
+    padding: 20px;
+}
